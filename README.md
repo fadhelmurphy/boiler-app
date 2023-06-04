@@ -1,7 +1,7 @@
 <h1 align="center">Under Development!!!</h1>
 <h2 align="center">Hi, this is boiler-app 👋</h2>
 
-> A simple npx cli tool for creating custom dashboard/web-public/widget
+> A simple npx cli tool for creating custom NodeJS App
 
 ## Install
 
